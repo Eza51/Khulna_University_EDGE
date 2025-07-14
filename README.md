@@ -6,13 +6,6 @@ A role-based university management system built with **PHP 8.2** and **Laravel 1
 
 [▶️ Watch Project Demo Video](https://bit.ly/3U7MlbE)
 
-## 🔗 GitHub Repository (Partial Code)
-
-This repository contains a **trimmed version** of the original source code. Some business logic and sensitive files have been excluded for privacy and security reasons.
-
-> ⚠️ _Note: Full source code is available upon formal request (e.g., internship/job application)._
-
----
 
 ## 🚀 Key Features
 
@@ -46,6 +39,14 @@ This repository contains a **trimmed version** of the original source code. Some
 ---
 
 ## 📂 Project Structure (Partial View)
+## 🔗 GitHub Repository (Partial Code)
+
+This repository contains a **trimmed version** of the original source code. Some business logic and sensitive files have been excluded for privacy and security reasons.
+
+> ⚠️ _Note: Full source code is available upon formal request ._
+
+---
+
 
 📄 License
 This code is shared for portfolio and educational purposes only. Unauthorized reproduction or commercial use of the full system is not permitted.
