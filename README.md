@@ -53,4 +53,4 @@ This code is shared for portfolio and educational purposes only. Unauthorized re
 
 
 Nowshin Jerin Eza
-🌐 Portfolio: https://njerineza.netlify.app
+🌐 Portfolio:https://nowshinjeza.netlify.app/
